@@ -1,0 +1,28 @@
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.exe
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.deps.json
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.json
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.dev.json
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.AssemblyReference.cache
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfoInputs.cache
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfo.cs
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.CoreCompileInputs.cache
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+F:\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.exe
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.deps.json
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.json
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.dev.json
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.AssemblyReference.cache
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfoInputs.cache
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfo.cs
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.CoreCompileInputs.cache
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache
