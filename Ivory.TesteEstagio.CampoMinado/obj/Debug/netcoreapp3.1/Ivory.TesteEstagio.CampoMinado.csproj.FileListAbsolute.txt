@@ -26,3 +26,17 @@ C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcore
 C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
 C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
 C:\códigos do momolado\ivoryit\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.AssemblyReference.cache
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfoInputs.cache
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfo.cs
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.CoreCompileInputs.cache
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.exe
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.deps.json
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.json
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.dev.json
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+F:\CLONE.projetoAccenture\TesteEstagioIvory-it\TesteEstagioIvory-it\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache

@@ -3,10 +3,7 @@
 namespace Ivory.TesteEstagio.CampoMinado
 {
     public class CampoMinado
-    {
-        //Definição de método random//
-
-        Random rnd = new Random();
+    { 
         private enum StatusTipo
         {
             Aberto,
@@ -90,42 +87,22 @@ namespace Ivory.TesteEstagio.CampoMinado
         /// </summary>
         /// <param name="linha"></param>
         /// <param name="coluna"></param>
-        
 
-        public void JogadaDoComputador()
+        public void Abrir(int linha, int coluna)
         {
-            do
-            {
-               //definição de números randomicos//
-
-                int randomlinha = rnd.Next(1, 9);
-                int randomcoluna = rnd.Next(1, 9);
-
-//             Laço de repetição criado para que não haja repetição         //
-//                          de valores já exibidos no jogo                  //
-                
-                while (Jogo[randomlinha, randomcoluna] != "-") {
-                    randomlinha = rnd.Next(1,9);
-                    randomcoluna = rnd.Next(1, 9);
-                }
-
-                Console.ReadKey();
-                Console.WriteLine("\nValores sorteados: linha:" + randomlinha + " e coluna: " + randomcoluna);
-                
-                if (Status == StatusTipo.GameOver || Solucao[randomlinha, randomcoluna] == "*")
+                if (Status == StatusTipo.GameOver || Solucao[linha, coluna] == "*")
                 {
-                    Jogo[randomlinha, randomcoluna] = Solucao[randomlinha, randomcoluna];
-                    Console.WriteLine("\n\n" + Tabuleiro);
+                    Jogo[linha, coluna] = Solucao[linha, coluna];
                     Status = StatusTipo.GameOver;
                 }
                 else
                 {
-                    if (Jogo[randomlinha, randomcoluna] == "-" && Solucao[randomlinha, randomcoluna] != "0")
+                    if (Jogo[linha, coluna] == "-" && Solucao[linha, coluna] != "0")
                     {
-                        Jogo[randomlinha, randomcoluna] = Solucao[randomlinha, randomcoluna];
+                        Jogo[linha, coluna] = Solucao[linha, coluna];
                         JogoTotalDeCasasAbertas++;
                     }
-                    else if (Jogo[randomlinha, randomcoluna] == "-" && Solucao[randomlinha, randomcoluna] == "0")
+                    else if (Jogo[linha, coluna] == "-" && Solucao[linha, coluna] == "0")
                     {
                         if (Jogo[4, 0] == "-")
                         {
@@ -199,7 +176,6 @@ namespace Ivory.TesteEstagio.CampoMinado
                             JogoTotalDeCasasAbertas++;
                         }
 
-
                         Jogo[5, 0] = "0";
                         Jogo[5, 1] = "0";
                         Jogo[6, 0] = "0";
@@ -224,17 +200,40 @@ namespace Ivory.TesteEstagio.CampoMinado
                         JogoTotalDeCasasAbertas += 21;
                     }
 
-                    //print do tabuleiro após as mudanças//
-
-                    Console.WriteLine("\n\n" + Tabuleiro);
-
                     if (JogoTotalDeCasasAbertas == 71)
                     {
                         Status = StatusTipo.Vitoria;
-                        Console.WriteLine("\nParabéns você venceu!!!");
                     }
-                  
-                } 
+                }
+            
+        }
+            public void JogadaDoComputador(CampoMinado campominado)
+        {
+            //Definição de método random//
+
+            Random rnd = new Random();
+            do
+            {
+               //definição de números randomicos//
+
+               int randomlinha = rnd.Next(1, 9);
+               int randomcoluna = rnd.Next(1, 9);
+
+//             Laço de repetição criado para que não haja repetição         //
+ //                          de valores já exibidos no jogo                  //
+
+                while (Jogo[randomlinha, randomcoluna] != "-") {
+                    randomlinha = rnd.Next(1,9);
+                    randomcoluna = rnd.Next(1,9);
+                }
+
+                Console.ReadKey();
+                Console.WriteLine("\nValores sorteados:\n linha: " + randomlinha + " e coluna: " + randomcoluna);
+
+                campominado.Abrir(randomlinha,randomcoluna);
+                Console.WriteLine("\nValor encontrado foi: " + Solucao[randomlinha, randomcoluna]);
+                Console.WriteLine("\n\n"+campominado.Tabuleiro);
+
             } while (JogoStatus != 2);
 
             //Mensagem final caso você tenha perdido o jogo//

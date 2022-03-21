@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bhXi6awioG86uvcAZdmi8JUxquFJH8dJ0tBRZAOvJorKYGVvyAiUXpMtTEzWl4BWbLWd3srQ9lJOJKxdokl3lw==",
+  "dgSpecHash": "2nfjwovNviQbdShBEz4t+8Y3jtMKhRryfZ9KCUHMJqfJVf5yTk1qBT54+5N7Xwx0WwmtitZs4u7qaT62rhMf5g==",
   "success": true,
-  "projectFilePath": "C:\\códigos do momolado\\ivoryit\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\morai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\morai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\CLONE.projetoAccenture\\TesteEstagioIvory-it\\TesteEstagioIvory-it\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

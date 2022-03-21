@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\morai\\.nuget\\packages\\": {},
+    "C:\\Users\\Micro\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\códigos do momolado\\ivoryit\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
+      "projectUniqueName": "F:\\CLONE.projetoAccenture\\TesteEstagioIvory-it\\TesteEstagioIvory-it\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
       "projectName": "Ivory.TesteEstagio.CampoMinado",
-      "projectPath": "C:\\códigos do momolado\\ivoryit\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
-      "packagesPath": "C:\\Users\\morai\\.nuget\\packages\\",
-      "outputPath": "C:\\códigos do momolado\\ivoryit\\Ivory.TesteEstagio.CampoMinado\\obj\\",
+      "projectPath": "F:\\CLONE.projetoAccenture\\TesteEstagioIvory-it\\TesteEstagioIvory-it\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
+      "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+      "outputPath": "F:\\CLONE.projetoAccenture\\TesteEstagioIvory-it\\TesteEstagioIvory-it\\Ivory.TesteEstagio.CampoMinado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\morai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -60,16 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
